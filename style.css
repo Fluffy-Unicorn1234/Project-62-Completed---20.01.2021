@@ -1,0 +1,47 @@
+.container
+{
+    text-align: center;
+}
+
+#mycarousel{
+background-color:black;
+}
+#mycarousel img{
+    height:300px;
+    margin-top:35px;
+}
+.carousel-inner p{
+  margin-bottom:15px;
+    margin-top:15px;
+        color:darkturquoise;
+    font-size:20px;
+}
+.container{
+text-align:center;
+}
+body{
+    text-align:center;
+    background-color:darkblue;
+}
+.gv{
+    height:100px;
+    width:50px;
+}
+h3{
+    color:cornflowerblue;
+}
+h1{
+    color:white;
+}
+#hhh{
+    padding-top:20px;
+    height:400px;
+    width:500px;
+}
+#zzz{
+    height:292px;
+    width:195px;
+}
+h2{
+    color:yellow;
+}
